@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=Sheet1 Member=*
+Change Component Footprint: Designator=C? Old Footprint=Cap_0603_A New Footprint=Cap_0603_A
+Change Component Footprint: Designator=SW? Old Footprint=MSK12C02 New Footprint=MSK12C02
+Change Component Designator: OldDesignator=BU? NewDesignator=BU1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=T? NewDesignator=T1
+Added Component: Designator=D1(LED 0603)
+Added Component: Designator=M2(2.0 5 PIN SMD)
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Led
+Added Member To Class: ClassName=Sheet1 Member=Component M2 Micro-USB

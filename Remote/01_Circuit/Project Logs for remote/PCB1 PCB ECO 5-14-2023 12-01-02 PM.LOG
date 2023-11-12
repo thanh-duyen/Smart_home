@@ -1,0 +1,669 @@
+Change Component Comment : Designator=C1 Old Comment=Capacitor New Comment=0.1uF
+Change Component Comment : Designator=R1 Old Comment=Resistor New Comment=1K6
+Added Component: Designator=BU2(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU3(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU4(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU5(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU6(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU7(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU8(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU9(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU10(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU11(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU12(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU13(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=BU14(BUTTON 4X4mm)
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.58mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High Level Output Current"; Value = "-200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Low Level Output Current"; Value = "200mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Timers/Counters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quiescent Current"; Value = "15mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.002561oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "3.91mm"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap_0603_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap_0603_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap_0603_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap_0603_A)
+Add component (AddParameter): Name = "Capacitance"; Value = "1nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "Flat"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.032inch"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED 0603)
+Added Component: Designator=D3(LED 0603)
+Added Component: Designator=D4(LED 0603)
+Added Component: Designator=D5(LED 0603)
+Added Component: Designator=D6(LED 0603)
+Added Component: Designator=D7(LED 0603)
+Added Component: Designator=DIO1(DIO-SMD-123)
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Res_0603)
+Added Component: Designator=R3(Res_0603)
+Added Component: Designator=R4(Res_0603)
+Added Component: Designator=R5(Res_0603)
+Added Component: Designator=R6(Res_0603)
+Added Component: Designator=R7(Res_0603)
+Added Component: Designator=R8(Res_0603)
+Added Component: Designator=R9(Res_0603)
+Added Component: Designator=R10(Res_0603)
+Added Component: Designator=R11(Res_0603)
+Added Component: Designator=R12(Res_0603)
+Added Component: Designator=U1(NRF24L01 + PA SMD)
+Added Pin To Net: NetName=+3.3 Pin=C4-1
+Added Pin To Net: NetName=+3.3 Pin=C5-1
+Added Pin To Net: NetName=+3.3 Pin=M1-2
+Added Pin To Net: NetName=+3.3 Pin=R2-2
+Added Pin To Net: NetName=+3.3 Pin=S1-5
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Pin To Net: NetName=+3.3 Pin=U1-1
+Added Net: Name=+3.3
+Added Pin To Net: NetName=+5 Pin=D1-1
+Added Pin To Net: NetName=+5 Pin=DIO1-2
+Added Pin To Net: NetName=+5 Pin=T1-4
+Added Net: Name=+5
+Added Pin To Net: NetName=BAT Pin=C1-1
+Added Pin To Net: NetName=BAT Pin=C3-1
+Added Pin To Net: NetName=BAT Pin=SW1-B1
+Added Pin To Net: NetName=BAT Pin=T1-3
+Added Net: Name=BAT
+Added Pin To Net: NetName=BOOST Pin=BU14-2
+Added Pin To Net: NetName=BOOST Pin=M1-25
+Added Pin To Net: NetName=BOOST Pin=M1-25
+Added Net: Name=BOOST
+Added Pin To Net: NetName=C1 Pin=BU1-4
+Added Pin To Net: NetName=C1 Pin=BU4-4
+Added Pin To Net: NetName=C1 Pin=BU7-4
+Added Pin To Net: NetName=C1 Pin=BU10-4
+Added Pin To Net: NetName=C1 Pin=R10-2
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=BU2-4
+Added Pin To Net: NetName=C2 Pin=BU5-4
+Added Pin To Net: NetName=C2 Pin=BU8-4
+Added Pin To Net: NetName=C2 Pin=BU11-4
+Added Pin To Net: NetName=C2 Pin=R11-2
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=BU3-4
+Added Pin To Net: NetName=C3 Pin=BU6-4
+Added Pin To Net: NetName=C3 Pin=BU9-4
+Added Pin To Net: NetName=C3 Pin=BU12-4
+Added Pin To Net: NetName=C3 Pin=R12-2
+Added Net: Name=C3
+Added Pin To Net: NetName=CE Pin=U1-3
+Added Net: Name=CE
+Added Pin To Net: NetName=CSN Pin=U1-4
+Added Net: Name=CSN
+Added Pin To Net: NetName=D1 Pin=D2-1
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=D3-1
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=D4-1
+Added Net: Name=D3
+Added Pin To Net: NetName=D4 Pin=D5-1
+Added Net: Name=D4
+Added Pin To Net: NetName=D5 Pin=D6-1
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=D7-1
+Added Net: Name=D6
+Added Pin To Net: NetName=D+ Pin=M1-34
+Added Pin To Net: NetName=D+ Pin=M2-3
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=M1-35
+Added Pin To Net: NetName=D- Pin=M2-2
+Added Net: Name=D-
+Added Pin To Net: NetName=EN Pin=BU13-2
+Added Pin To Net: NetName=EN Pin=C2-1
+Added Pin To Net: NetName=EN Pin=M1-3
+Added Pin To Net: NetName=EN Pin=R2-1
+Added Net: Name=EN
+Added Pin To Net: NetName=GND Pin=BU13-1
+Added Pin To Net: NetName=GND Pin=BU14-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-5
+Added Pin To Net: NetName=GND Pin=M2-6
+Added Pin To Net: NetName=GND Pin=M2-7
+Added Pin To Net: NetName=GND Pin=M2-8
+Added Pin To Net: NetName=GND Pin=M2-9
+Added Pin To Net: NetName=GND Pin=M2-10
+Added Pin To Net: NetName=GND Pin=M2-11
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=M1-31
+Added Pin To Net: NetName=MISO Pin=U1-7
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=M1-37
+Added Pin To Net: NetName=MOSI Pin=U1-6
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetBU1_3 Pin=BU1-3
+Added Pin To Net: NetName=NetBU1_3 Pin=BU2-2
+Added Net: Name=NetBU1_3
+Added Pin To Net: NetName=NetBU2_3 Pin=BU2-3
+Added Pin To Net: NetName=NetBU2_3 Pin=BU3-2
+Added Net: Name=NetBU2_3
+Added Pin To Net: NetName=NetBU4_3 Pin=BU4-3
+Added Pin To Net: NetName=NetBU4_3 Pin=BU5-2
+Added Net: Name=NetBU4_3
+Added Pin To Net: NetName=NetBU5_3 Pin=BU5-3
+Added Pin To Net: NetName=NetBU5_3 Pin=BU6-2
+Added Net: Name=NetBU5_3
+Added Pin To Net: NetName=NetBU7_3 Pin=BU7-3
+Added Pin To Net: NetName=NetBU7_3 Pin=BU8-2
+Added Net: Name=NetBU7_3
+Added Pin To Net: NetName=NetBU8_3 Pin=BU8-3
+Added Pin To Net: NetName=NetBU8_3 Pin=BU9-2
+Added Net: Name=NetBU8_3
+Added Pin To Net: NetName=NetBU10_3 Pin=BU10-3
+Added Pin To Net: NetName=NetBU10_3 Pin=BU11-2
+Added Net: Name=NetBU10_3
+Added Pin To Net: NetName=NetBU11_3 Pin=BU11-3
+Added Pin To Net: NetName=NetBU11_3 Pin=BU12-2
+Added Net: Name=NetBU11_3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R3-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R4-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=R5-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R6-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R7-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R8-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R9-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetDIO1_1 Pin=DIO1-1
+Added Pin To Net: NetName=NetDIO1_1 Pin=M2-1
+Added Net: Name=NetDIO1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=T1-6
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=T1-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=S1-3
+Added Pin To Net: NetName=NetS1_1 Pin=SW1-C1
+Added Net: Name=NetS1_1
+Added Pin To Net: NetName=R1 Pin=BU1-2
+Added Net: Name=R1
+Added Pin To Net: NetName=R2 Pin=BU4-2
+Added Net: Name=R2
+Added Pin To Net: NetName=R3 Pin=BU7-2
+Added Net: Name=R3
+Added Pin To Net: NetName=R4 Pin=BU10-2
+Added Net: Name=R4
+Added Pin To Net: NetName=SCK Pin=M1-30
+Added Pin To Net: NetName=SCK Pin=U1-5
+Added Net: Name=SCK
+Added Member To Class: ClassName=Sheet1 Member=Component BU2 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU3 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU4 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU5 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU6 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU7 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU8 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU9 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU10 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU11 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU12 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU13 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component BU14 BUTTON
+Added Member To Class: ClassName=Sheet1 Member=Component C2 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component D2 Led
+Added Member To Class: ClassName=Sheet1 Member=Component D3 Led
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Led
+Added Member To Class: ClassName=Sheet1 Member=Component D5 Led
+Added Member To Class: ClassName=Sheet1 Member=Component D6 Led
+Added Member To Class: ClassName=Sheet1 Member=Component D7 Led
+Added Member To Class: ClassName=Sheet1 Member=Component DIO1 Diode SMD
+Added Member To Class: ClassName=Sheet1 Member=Component R2 200K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R4 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R5 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R6 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R7 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R8 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R9 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R10 200K
+Added Member To Class: ClassName=Sheet1 Member=Component R11 200K
+Added Member To Class: ClassName=Sheet1 Member=Component R12 200K
+Added Member To Class: ClassName=Sheet1 Member=Component U1 nRF24L01

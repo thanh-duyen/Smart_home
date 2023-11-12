@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=R2 Pin=M1-33
+Added Pin To Net: NetName=R1 Pin=M1-36
+Added Member To Class: ClassName=Sheet1 Member=Component M1 ESP32

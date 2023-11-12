@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=ADC Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=ADC Pin=R14-1
+Removed Pin From Net: NetName=BAT Pin=R14-2
+Added Component: Designator=Q1(FP-SOT23-IPC_C)
+Added Component: Designator=R15(Res_0603)
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=BAT Pin=R13-1
+Added Pin To Net: NetName=ADC Pin=R13-2
+Added Pin To Net: NetName=ADC Pin=R14-2
+Added Pin To Net: NetName=ADC_EN Pin=M1-16
+Added Pin To Net: NetName=ADC_EN Pin=R15-2
+Added Net: Name=ADC_EN
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R15-1
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R14-1
+Added Net: Name=NetQ1_3
+Added Member To Class: ClassName=Sheet2 Member=Component Q1 NPN
+Added Member To Class: ClassName=Sheet2 Member=Component R15 4k7

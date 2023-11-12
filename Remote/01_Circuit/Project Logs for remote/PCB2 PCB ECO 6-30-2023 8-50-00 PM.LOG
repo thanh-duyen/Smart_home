@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BAT Pin=R13-1
+Change Component Designator: OldDesignator=Â NewDesignator=S1
+Added Pin To Net: NetName=NetS1_1 Pin=R13-1
+Change Net Name : Old Net Name=NetS1_1 New Net Name=NetR13_1
+Added Member To Class: ClassName=Sheet2 Member=Component C2 10nF
+Added Member To Class: ClassName=Sheet2 Member=Component R2 200K

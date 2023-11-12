@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=C1 Pin=M1-6
+Removed Pin From Net: NetName=C2 Pin=M1-7
+Removed Pin From Net: NetName=C1 Pin=R10-2
+Removed Pin From Net: NetName=C2 Pin=R11-2
+Added Pin To Net: NetName=C2 Pin=M1-6
+Added Pin To Net: NetName=C1 Pin=M1-7
+Added Pin To Net: NetName=C2 Pin=R10-2
+Added Pin To Net: NetName=C1 Pin=R11-2
+Change Net Name : Old Net Name=C1 New Net Name=C2
+Change Net Name : Old Net Name=C2 New Net Name=C1
+Added Member To Class: ClassName=Sheet2 Member=Component M1 ESP32

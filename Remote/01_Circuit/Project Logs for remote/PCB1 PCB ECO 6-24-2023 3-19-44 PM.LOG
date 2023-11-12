@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=+3.3 Pin=U1-1
+Removed Pin From Net: NetName=+3.3 Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=CE Pin=U1-3
+Removed Pin From Net: NetName=CSN Pin=U1-4
+Removed Pin From Net: NetName=SCK Pin=U1-5
+Removed Pin From Net: NetName=MOSI Pin=U1-6
+Removed Pin From Net: NetName=MISO Pin=U1-7
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=U?(NRF24L01 + PA SMD)
+Added Pin To Net: NetName=+3.3 Pin=U?-1
+Added Pin To Net: NetName=+3.3 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=CE Pin=U?-3
+Added Pin To Net: NetName=CSN Pin=U?-4
+Added Pin To Net: NetName=SCK Pin=U?-5
+Added Pin To Net: NetName=MOSI Pin=U?-6
+Added Pin To Net: NetName=MISO Pin=U?-7
+Added Member To Class: ClassName=Sheet1 Member=Component U? nRF24L01
